@@ -21,7 +21,7 @@ El análisis descriptivo y el EDA, dependiendo de dónde se implante, pueden ser
 1. **Análisis descriptivo**: Se centra en describir las características principales de un conjunto de datos mediante estadísticas descriptivas, como la media, la mediana, el rango, etcétera. Su objetivo principal es proporcionar una descripción clara y resumida de los datos.
 2. **EDA**: Va un paso más allá, ya que se centra en explorar patrones, relaciones, anomalías, etc., en los datos utilizando gráficos y estadísticas más sofisticadas. Su objetivo principal es entender la estructura de los datos, relaciones entre variables y formular hipótesis o intuiciones para posteriores análisis o modelado.
 
-En el mundo real, tras la captura de información, se puede comenzar con un análisis descriptivo para obtener un sentido básico del conjunto de datos y luego proceder al EDA para una exploración más profunda. Sin embargo, en muchos casos, el término EDA se usa para englobar ambos procesos, ya que el límite entre ambos es algo difuso y depende de cada grupo de trabajo, empresa, etcétera.
+En el mundo real, una vez obtenida la informaciòn, se puede comenzar con un análisis descriptivo para obtener un sentido básico del conjunto de datos y luego proceder al EDA para una exploración más profunda. Sin embargo, en muchos casos, el término EDA se usa para englobar ambos procesos, ya que el límite entre ambos es algo difuso y depende de cada grupo de trabajo, empresa, etcétera.
 
 ### Flujo de Machine Learning
 
